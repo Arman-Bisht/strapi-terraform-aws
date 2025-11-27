@@ -1,0 +1,38 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+terraform.tfstate.d/
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# SSH Keys (NEVER commit these!)
+*.pem
+*.key
+*.pub
+id_rsa*
+
+# Logs
+*.log
+*.log.*
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Personal notes and scripts (not for public repo)
+GITHUB_CHECKLIST.md
+LOOM_SCRIPT.md
