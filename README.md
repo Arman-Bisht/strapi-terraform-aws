@@ -183,10 +183,6 @@ pm2 restart strapi
 - Configure custom domain with Route 53
 - Add SSL certificate with AWS Certificate Manager
 
-## 📄 License
 
-This project is open source and available under the MIT License.
-
-## 👤 Author
 
 Created as part of a DevOps assessment demonstrating Infrastructure as Code and cloud deployment skills.
